@@ -187,3 +187,8 @@ position = Vector2(3004, 1198)
 
 [node name="Coin13" parent="." instance=ExtResource("5_0ae3c")]
 position = Vector2(2787, 1367)
+
+[node name="Area Trigger2" parent="." instance=ExtResource("7_w6cpm")]
+position = Vector2(165, 950)
+scale = Vector2(214.534, 2.51255)
+sceneName = "LoseScreen"

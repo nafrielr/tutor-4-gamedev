@@ -20,6 +20,7 @@ Pada level pertama, saya mengimplementasikan:
 Level kedua memiliki beberapa perbedaan dari level pertama:
 
 - **TileMap yang Berbeda**: Menggunakan **desain peta yang baru**, berbeda dari level pertama.
+- **Double jump & Sprint pada Player**: Player dapat melakukan double jump dengan klik arrow up 2 kali dan sprint dengan klik arrow right/left 2 kali dengan cepat.
 - **Spawner dengan Barnacle**: Rintangan baru berupa **Barnacle**, bukan **Falling Fish**.
 - **Koin sebagai Penunjuk Arah**: Sama seperti level pertama, koin akan membantu menunjukkan jalur yang harus diambil oleh Player.
 - **Musuh Baru**:
